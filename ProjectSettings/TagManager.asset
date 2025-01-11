@@ -41,3 +41,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 3141918979
+    locked: 0
+  - name: Land
+    uniqueID: 3952528423
+    locked: 0
+  - name: Cloud
+    uniqueID: 3338678739
+    locked: 0
+  - name: Box
+    uniqueID: 4050096591
+    locked: 0
+  - name: Chara
+    uniqueID: 4287750021
+    locked: 0
